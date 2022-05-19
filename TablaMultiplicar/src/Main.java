@@ -7,6 +7,7 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
+		System.out.println("prueba git");
 		// TODO Auto-generated method stub
 		System.out.println("Tabla de multiplicar");
 		Scanner leer=new Scanner (System.in);
